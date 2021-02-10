@@ -56,7 +56,7 @@ export default function Experience() {
             }
   
             .right-menu a:not(:last-child) {
-              padding-right: 1.5em;
+              margin-right: 1.5em;
             }
   
             .right-menu a:hover{

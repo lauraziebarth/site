@@ -74,7 +74,7 @@ export default function Home() {
           }
 
           .right-menu a:not(:last-child) {
-            padding-right: 1.5em;
+            margin-right: 1.5em;
           }
 
           .right-menu a:hover{
@@ -121,7 +121,7 @@ export default function Home() {
             font-weight: 300;
             font-size: 27px;
             margin-top: 15px;
-            color:#565759; 
+            color:##858585; 
           }
 
           .profile-image {
