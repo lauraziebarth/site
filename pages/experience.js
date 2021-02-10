@@ -88,6 +88,7 @@ export default function Experience() {
               width: 80%;
               font-size: 15px;
               line-height: 25px;
+              margin-top: 0px;
             }
           `}
         </style>
