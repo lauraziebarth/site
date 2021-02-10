@@ -22,7 +22,7 @@ export default function Home() {
         <Link href="/experience">
           <a>Experience</a>
         </Link>
-        <Link href="/contat">
+        <Link href="/contact">
           <a>Contact</a>
         </Link>
       </div>
@@ -75,6 +75,12 @@ export default function Home() {
 
           .right-menu a:not(:last-child) {
             padding-right: 1.5em;
+          }
+
+          .right-menu a:hover{
+            background-color: #ffc7c7;
+            border-radius: 7px;
+            transition: background-color 0.2s;
           }
 
           .profile {
@@ -138,12 +144,12 @@ export default function Home() {
           a {
             text-decoration: none;
             color: #000000;
+            padding: 5px;
           }
 
           .icons a:not(:last-child) {
             padding-right: 1.5em;
           }
-
         `}
       </style>
     
