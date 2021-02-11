@@ -21,16 +21,13 @@ export default function Experience() {
           </Link>
           </div>
 
-          <div>
           <h1>Experience</h1>
-          </div>
 
           <h2>Technical Support - Mercos (January 2017 - Present)</h2>
 
           <p>
             At Mercos I am responsible for identifying bugs in production, performing tests, debugging and if possible fixing this problems. 
-            I also work with MySQL everyday, making queries to identify and solve problems, and extract data to help other teams in customer related activities.
-            To help other sectors understand how the product/features works, I have daily conversations and I'm used to lead trainings.
+            I also work with MySQL everyday, making queries to identify and solve problems, and extract data to help other teams in customer related activities. To help other sectors understand how the product/features works, I have daily conversations and I'm used to lead trainings.
             I am also responsible for conducting homologation meetings with partners, helping the developers to do the best integration, with quality, according to our API. Finally, I've created and I still update internal documentation about the product, such as the API.  
           </p>
 
