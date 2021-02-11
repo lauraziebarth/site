@@ -60,7 +60,7 @@ export default function Home() {
           .page-box {
             display: flex;
             flex-direction: column;
-            background-color: #f7f7f7;
+            background-color: #F8F8F8;
             max-width: 1300px;
             margin: 100px auto;
             justify-content: space-between;
@@ -115,13 +115,14 @@ export default function Home() {
             font-size: 50px;
             font-weight: 500;
             margin: 0px;
+            color: #212121;
           }
 
           .profile-text h2 {
             font-weight: 300;
             font-size: 27px;
             margin-top: 15px;
-            color: #757575; 
+            color: #858585; 
           }
 
           .profile-image {
@@ -143,7 +144,7 @@ export default function Home() {
 
           a {
             text-decoration: none;
-            color: #000000;
+            color: #212121;
             padding: 5px;
           }
 

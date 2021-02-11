@@ -20,7 +20,7 @@ class MyDocument extends Document {
               __html: `
                 body {
                     font-family: 'Rubik', sans-serif;
-                    background-color: #f7f7f7;
+                    background-color: #F8F8F8;
                     background-repeat: repeat;
                     margin: 0;
                     width: 100%;

@@ -103,7 +103,7 @@ function Skills() {
             .page-box {
               display: flex;
               flex-direction: column;
-              background-color: #f7f7f7;
+              background-color: #F8F8F8;
               max-width: 1300px;
               margin: 100px auto;
               justify-content: space-between;
@@ -129,7 +129,7 @@ function Skills() {
 
             a {
               text-decoration: none;
-              color: #000000;
+              color: #212121;
               padding: 5px;
             }
 
@@ -151,13 +151,13 @@ function Skills() {
               justify-content: space-between;
               align-items: center;
               margin-top: 30px;
-              margin-right: 200px;
+              padding-right: 200px;
             }
 
             .a p {
               margin-left: 17px;
               font-size: 20px;
-              color: #616161;
+              color: #212121;
             }
             
           `}

@@ -39,7 +39,7 @@ export default function Experience() {
             .page-box {
               display: flex;
               flex-direction: column;
-              background-color: #f7f7f7;
+              background-color: #F8F8F8;
               max-width: 1300px;
               margin: 100px auto;
               justify-content: space-between;
@@ -64,7 +64,7 @@ export default function Experience() {
 
             a {
               text-decoration: none;
-              color: #000000;
+              color: #212121;
               padding: 5px;
             }
 
@@ -77,7 +77,7 @@ export default function Experience() {
               font-size: 20px;
               margin-top: 30px;
               text-align: justify:
-              color:#565759; 
+              color: #212121; 
             }
 
             p {
