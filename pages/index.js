@@ -121,7 +121,7 @@ export default function Home() {
             font-weight: 300;
             font-size: 27px;
             margin-top: 15px;
-            color:##858585; 
+            color: #757575; 
           }
 
           .profile-image {
