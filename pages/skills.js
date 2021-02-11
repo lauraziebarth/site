@@ -143,14 +143,14 @@ function Skills() {
               align-items: center;
               width: 90%;
               flex-wrap: wrap;
-              margin-bottom: 30px;
+              margin: 0 0 40px;
             }
 
             .skills-icons {
               display: flex;
               justify-content: space-between;
               align-items: center;
-              margin-top: 30px;
+              margin-top: 40px;
               padding-right: 200px;
             }
 
@@ -158,6 +158,7 @@ function Skills() {
               margin-left: 17px;
               font-size: 20px;
               color: #616161;
+              width: 100px;
             }
             
           `}
