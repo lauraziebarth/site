@@ -38,18 +38,18 @@ function Skills() {
 
             <h1>Skills</h1>
 
-            <div className="skills-icons">
+            <div className="skills">
               <div className="languages">
-                <div className="a">
+                <div className="skills-icons">
                   <Html5/><p>HTML 5</p>
                 </div> 
-                <div className="a">
+                <div className="skills-icons">
                   <Css3/><p>CSS 3</p>
                 </div>
-                <div className="a">
+                <div className="skills-icons">
                   <Python/><p>Python</p>
                 </div>
-                <div className="a">
+                <div className="skills-icons">
                   <JavaScript/><p>JavaScript</p>
                 </div>
               </div>
@@ -57,16 +57,16 @@ function Skills() {
               <div style={{ borderTop: "2px solid #dedede ", width: "80%"}}></div>
 
               <div className="tools">
-                <div className="a">
+                <div className="skills-icons">
                   <Sentry/><p>Sentry</p>
                 </div>
-                <div className="a">
+                <div className="skills-icons">
                   <Kibana/><p>Kibana</p>
                 </div>
-                <div className="a">
+                <div className="skills-icons">
                   <Grafana/><p>Grafana</p>
                 </div>
-                <div className="a">
+                <div className="skills-icons">
                   <AWS/><p>AWS</p>
                 </div>        
               </div>
@@ -74,13 +74,13 @@ function Skills() {
               <div style={{ borderTop: "2px solid #dedede ", width: "80%"}}></div>
 
               <div className="others">
-                <div className="a">
+                <div className="skills-icons">
                   <Sql /><p>MySQL</p>
                 </div>
-                <div className="a">
+                <div className="skills-icons">
                   <APIRest/><p>API Rest</p>
                 </div>
-                <div className="a">
+                <div className="skills-icons">
                   <Kanban/><p>Kanban</p>
                 </div>
               </div>
@@ -88,7 +88,7 @@ function Skills() {
               <div style={{ borderTop: "2px solid #dedede ", width: "80%"}}></div>
 
               <div className="soft-skills">
-                <div className="a">
+                <div className="skills-icons">
                   <Idioma/> <p>English (advanced) / Portuguese (native)</p>
                 </div>
               </div>
@@ -146,7 +146,7 @@ function Skills() {
               margin-bottom: 30px;
             }
 
-            .a {
+            .skills-icons {
               display: flex;
               justify-content: space-between;
               align-items: center;
@@ -154,10 +154,10 @@ function Skills() {
               padding-right: 200px;
             }
 
-            .a p {
+            .skills-icons p {
               margin-left: 17px;
               font-size: 20px;
-              color: #212121;
+              color: #616161;
             }
             
           `}
