@@ -89,7 +89,7 @@ function Skills() {
 
               <div className="soft-skills">
                 <div className="skills-icons">
-                  <Idioma/> <p>English (advanced) / Portuguese (native)</p>
+                  <Idioma/> <p>English (advanced) - Portuguese (native)</p>
                 </div>
               </div>
               
@@ -160,7 +160,14 @@ function Skills() {
               color: #616161;
               width: 100px;
             }
-            
+
+            .soft-skills p {
+              margin-left: 17px;
+              font-size: 20px;
+              color: #616161;
+              width: 400px;   
+            }
+
           `}
         </style>
 
