@@ -23,7 +23,7 @@ export default function Experience() {
 
           <h1>Experience</h1>
 
-          <h2>Technical Support - Mercos (January 2017 - Present)</h2>
+          <h2>Support Engineer - Mercos (January 2017 - Present)</h2>
 
           <p>
             At Mercos I am responsible for identifying bugs in production, performing tests, debugging and if possible fixing this problems. 
