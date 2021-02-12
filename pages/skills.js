@@ -11,7 +11,7 @@ import Kanban from '../public/images/kanban.svg'
 import Kibana from '../public/images/kibana.svg'
 import Grafana from '../public/images/grafana.svg'
 import Sentry from '../public/images/sentry.svg'
-import Idioma from '../public/images/idioma.svg'
+import Languages from '../public/images/language.svg'
 
 
 function Skills() {
@@ -89,7 +89,7 @@ function Skills() {
 
               <div className="soft-skills">
                 <div className="skills-icons">
-                  <Idioma/> <p>English (advanced) - Portuguese (native)</p>
+                  <Languages/> <p>English (advanced) - Portuguese (native)</p>
                 </div>
               </div>
               
